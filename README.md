@@ -14,3 +14,6 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 ## ​Que big idea você propõe para o projeto?
 - Violência de gênero.
 
+## Que questão essencial você propõe para o projeto?
+- Como a violência de gênero é reportada em redes sociais aceleradas?
+
