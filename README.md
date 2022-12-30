@@ -26,4 +26,9 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 
 <br>
 
+## Que questões norteadoras você propõe para explorar e aprender mais sobre o desafio?
+- Aprender a consumir a API do twitter.
+- Leitura de textos/artigos/noticias a respeito do tema.
+- Explorar as principais tags do twitter relacionado ao assunto.
+- Planejar a arquitetura da solução.
 
