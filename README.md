@@ -32,3 +32,8 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 - Explorar as principais tags relacionaao ao tema a fim entender sua importância na sociedade.
 - Planejar a arquitetura da solução.
 
+<br>
+
+## Quais atividades e recursos norteadores você sugere para responder às questões norteadoras?
+- 
+
