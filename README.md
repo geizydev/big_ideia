@@ -17,18 +17,18 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 <br>
 
 ## Que questão essencial você propõe para o projeto?
-- Como a violência de gênero é reportada em redes sociais aceleradas?
+- Como incentivar um ecossistema sustentável através de um sistema de reciclagem que promova e controle créditos dos clientes de comércios, utilizando embalagens com QR Code para validar e ganhar créditos que possam ser utilizados como forma de conseguir descontos em compras futuras?
 
 <br>
 
 ## Como você transforma a essential question e a big idea em um desafio similar a uma chamada para a ação?
-- Identificar com maior assertividade publicações sobre violência de gênero nas redes sociais.
+- Junte-se a nós na construção de um ecossistema sustentável! Recicle suas embalagens com QR Code e ganhe créditos para descontos em compras futuras. Faça a diferença e ajude a promover um futuro mais sustentável para todos!
 
 <br>
 
 ## Que questões norteadoras você propõe para explorar e aprender mais sobre o desafio?
-- Aprender a consumir a API do twitter.
+- Aprender a consumir a API.
 - Leitura de textos/artigos/noticias a respeito do tema.
-- Explorar as principais tags do twitter relacionado ao assunto.
+- Explorar as principais tags relacionaao ao tema a fim entender sua importância na sociedade.
 - Planejar a arquitetura da solução.
 
