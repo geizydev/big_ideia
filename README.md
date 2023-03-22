@@ -12,7 +12,7 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 <br>
 
 ## ​Que big idea você propõe para o projeto?
-- Violência de gênero.
+- Um sistema de reciclagem para promover e controlar créditos dos clientes de comércios (padarias, mercados, etc…) através de embalagens. Essas embalagens possuem um QR Code no qual as pessoas validam e ganham créditos que podem ser utilizados como forma de conseguir descontos em compras futuras. Promove um ecossistema sustentável pois incentiva donos de comércios e clientes a usarem o sistema através de um programa de benefícios e descontos.
 
 <br>
 
