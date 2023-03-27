@@ -35,5 +35,20 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 <br>
 
 ## Quais atividades e recursos norteadores você sugere para responder às questões norteadoras?
-- 
+- Aprender a consumir a API:
+-- Pesquisar documentação da API em questão
+-- Praticar com exemplos de requisições
+-- Desenvolver pequenos projetos para treinar o uso da API
+- Leitura de textos/artigos/notícias a respeito do tema:
+-- Pesquisar em sites especializados na área
+-- Ler artigos científicos sobre o assunto
+-- Acompanhar notícias e atualizações sobre o tema
+- Explorar as principais tags relacionadas ao tema a fim entender sua importância na sociedade:
+-- Pesquisar as principais tags utilizadas nas redes sociais
+-- Analisar o significado e importância dessas tags
+-- Estudar como as pessoas utilizam essas tags e como elas podem influenciar na sociedade
+- Planejar a arquitetura da solução:
+-- Definir os requisitos do projeto
+-- Esboçar diagramas de fluxo de dados e arquitetura de software
+-- Definir tecnologias e ferramentas a serem utilizadas no projeto.
 
