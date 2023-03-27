@@ -67,7 +67,7 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 
 ## Que solução você sugere para ser desenvolvida?
 
-A questão principal do projeto é como criar um sistema de reciclagem que incentiva a sustentabilidade e a economia circular (conceito que associa desenvolvimento econômico a um melhor uso de recursos naturais, por meio de novos modelos de negócios e da otimização nos processos de fabricação com menor dependência de matéria-prima, priorizando insumos recicláveis e renováveis), ao mesmo tempo que beneficia proprietários de comércios e seus clientes.
+* A questão principal do projeto é como criar um sistema de reciclagem que incentiva a sustentabilidade e a economia circular (conceito que associa desenvolvimento econômico a um melhor uso de recursos naturais, por meio de novos modelos de negócios e da otimização nos processos de fabricação com menor dependência de matéria-prima, priorizando insumos recicláveis e renováveis), ao mesmo tempo que beneficia proprietários de comércios e seus clientes.
 
-Para solucionar essa questão, vamos desenvolver um sistema que promova um controle e gestão de créditos dos clientes de donos de comércios que validam embalagens recicláveis através de QR Codes. Esses créditos poderão ser utilizados como descontos em compras futuras nos estabelecimentos que possuírem nosso sistema. A ideia é incentivar os clientes a reciclar as embalagens corretamente e a promover a economia circular por meio de um sistema de benefícios.
+* Para solucionar essa questão, vamos desenvolver um sistema que promova um controle e gestão de créditos dos clientes de donos de comércios que validam embalagens recicláveis através de QR Codes. Esses créditos poderão ser utilizados como descontos em compras futuras nos estabelecimentos que possuírem nosso sistema. A ideia é incentivar os clientes a reciclar as embalagens corretamente e a promover a economia circular por meio de um sistema de benefícios.
 
