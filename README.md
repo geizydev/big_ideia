@@ -81,10 +81,8 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 
 ## Como você testará a solução no mundo real?
 
-+ Prototipação: criar um protótipo funcional do sistema de reciclagem para testar a usabilidade e funcionalidade do sistema.
-+ Testes de usabilidade: realizar testes com um grupo de usuários reais para avaliar a facilidade de uso e eficácia do sistema.
-+ Testes piloto: implementar o sistema de reciclagem em um pequeno número de comércios selecionados para avaliar a viabilidade e eficácia da solução em um ambiente real.
-+ Refinamento da solução: com base nos resultados dos testes, realizar ajustes e refinamentos na solução para melhorar sua eficácia e usabilidade.
-+ Implementação em larga escala: após refinamentos, implementar o sistema em larga escala em mais comércios e avaliar a eficácia e sustentabilidade da solução a longo prazo.
-+ Monitoramento contínuo: monitorar continuamente o desempenho do sistema de reciclagem e coletar feedback dos usuários para identificar possíveis melhorias e ajustes necessários.
+- Prototipação.
+- Testes de usabilidade.
+- Refinamento da solução.
+- Monitoramento contínua.
 
