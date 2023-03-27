@@ -40,9 +40,9 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 *  Praticar com exemplos de requisições
 *  Desenvolver pequenos projetos para treinar o uso da API
 - Leitura de textos/artigos/notícias a respeito do tema:
-*  Pesquisar em sites especializados na área
-*  Ler artigos científicos sobre o assunto
-*  Acompanhar notícias e atualizações sobre o tema
+  *  Pesquisar em sites especializados na área
+  *  Ler artigos científicos sobre o assunto
+  *  Acompanhar notícias e atualizações sobre o tema
 - Explorar as principais tags relacionadas ao tema a fim entender sua importância na sociedade:
 *  Pesquisar as principais tags utilizadas nas redes sociais
 * Analisar o significado e importância dessas tags
