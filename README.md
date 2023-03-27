@@ -77,3 +77,14 @@ Este repositório tem o intuito de alocar nossas "ideias" nas quais agreguem con
 * A questão principal do projeto é como criar um sistema de reciclagem que incentiva a sustentabilidade e a economia circular (conceito que associa desenvolvimento econômico a um melhor uso de recursos naturais, por meio de novos modelos de negócios e da otimização nos processos de fabricação com menor dependência de matéria-prima, priorizando insumos recicláveis e renováveis), ao mesmo tempo que beneficia proprietários de comércios e seus clientes.
 * Para solucionar essa questão, vamos desenvolver um sistema que promova um controle e gestão de créditos dos clientes de donos de comércios que validam embalagens recicláveis através de QR Codes. Esses créditos poderão ser utilizados como descontos em compras futuras nos estabelecimentos que possuírem nosso sistema. A ideia é incentivar os clientes a reciclar as embalagens corretamente e a promover a economia circular por meio de um sistema de benefícios.
 
+<br>
+
+## Como você testará a solução no mundo real?
+
++ Prototipação: criar um protótipo funcional do sistema de reciclagem para testar a usabilidade e funcionalidade do sistema.
++ Testes de usabilidade: realizar testes com um grupo de usuários reais para avaliar a facilidade de uso e eficácia do sistema.
++ Testes piloto: implementar o sistema de reciclagem em um pequeno número de comércios selecionados para avaliar a viabilidade e eficácia da solução em um ambiente real.
++ Refinamento da solução: com base nos resultados dos testes, realizar ajustes e refinamentos na solução para melhorar sua eficácia e usabilidade.
++ Implementação em larga escala: após refinamentos, implementar o sistema em larga escala em mais comércios e avaliar a eficácia e sustentabilidade da solução a longo prazo.
++ Monitoramento contínuo: monitorar continuamente o desempenho do sistema de reciclagem e coletar feedback dos usuários para identificar possíveis melhorias e ajustes necessários.
+
